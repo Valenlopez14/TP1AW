@@ -1,0 +1,38 @@
+
+-------------------------
+Procesador
+[{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1093109,"nice":0,"sys":763453,"idle":27580375,"irq":211343}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":353015,"nice":0,"sys":212062,"idle":28871859,"irq":15984}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1057265,"nice":0,"sys":257437,"idle":28122109,"irq":10968}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":344953,"nice":0,"sys":178609,"idle":28913234,"irq":9453}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1172375,"nice":0,"sys":650578,"idle":27613859,"irq":17375}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1067406,"nice":0,"sys":471687,"idle":27897718,"irq":14984}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1421968,"nice":0,"sys":400562,"idle":27614281,"irq":6109}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1574718,"nice":0,"sys":409093,"idle":27453000,"irq":5296}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1485546,"nice":0,"sys":280984,"idle":27670281,"irq":11203}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":429390,"nice":0,"sys":184218,"idle":28823203,"irq":4875}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1301046,"nice":0,"sys":291187,"idle":27844578,"irq":6234}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1355203,"nice":0,"sys":262984,"idle":27818625,"irq":6734}}]
+
+Memoria Libre
+3.22
+
+Memoria Usada
+4.73
+
+Memoria Total
+7.95
+
+Interfaz de Red
+{"Ethernet":[{"address":"fe80::bea7:6bfc:d92c:fed0","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"00:d8:61:11:ea:ca","internal":false,"cidr":"fe80::bea7:6bfc:d92c:fed0/64","scopeid":4},{"address":"192.168.0.157","netmask":"255.255.255.0","family":"IPv4","mac":"00:d8:61:11:ea:ca","internal":false,"cidr":"192.168.0.157/24"}],"Loopback Pseudo-Interface 1":[{"address":"::1","netmask":"ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff","family":"IPv6","mac":"00:00:00:00:00:00","internal":true,"cidr":"::1/128","scopeid":0},{"address":"127.0.0.1","netmask":"255.0.0.0","family":"IPv4","mac":"00:00:00:00:00:00","internal":true,"cidr":"127.0.0.1/8"}]}
+
+Servidor iniciado el 19/4/2024, 06:53:26
+
+-------------------------
+Procesador
+[{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1093109,"nice":0,"sys":763453,"idle":27580375,"irq":211343}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":353015,"nice":0,"sys":212062,"idle":28871859,"irq":15984}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1057265,"nice":0,"sys":257437,"idle":28122109,"irq":10968}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":344953,"nice":0,"sys":178609,"idle":28913234,"irq":9453}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1172375,"nice":0,"sys":650578,"idle":27613859,"irq":17375}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1067406,"nice":0,"sys":471687,"idle":27897718,"irq":14984}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1421968,"nice":0,"sys":400562,"idle":27614281,"irq":6109}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1574718,"nice":0,"sys":409093,"idle":27453000,"irq":5296}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1485546,"nice":0,"sys":280984,"idle":27670281,"irq":11203}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":429390,"nice":0,"sys":184218,"idle":28823203,"irq":4875}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1301046,"nice":0,"sys":291187,"idle":27844578,"irq":6234}},{"model":"AMD Ryzen 5 3600 6-Core Processor              ","speed":3600,"times":{"user":1355203,"nice":0,"sys":262984,"idle":27818625,"irq":6734}}]
+
+Memoria Libre
+3.22
+
+Memoria Usada
+4.73
+
+Memoria Total
+7.95
+
+Interfaz de Red
+{"Ethernet":[{"address":"fe80::bea7:6bfc:d92c:fed0","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"00:d8:61:11:ea:ca","internal":false,"cidr":"fe80::bea7:6bfc:d92c:fed0/64","scopeid":4},{"address":"192.168.0.157","netmask":"255.255.255.0","family":"IPv4","mac":"00:d8:61:11:ea:ca","internal":false,"cidr":"192.168.0.157/24"}],"Loopback Pseudo-Interface 1":[{"address":"::1","netmask":"ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff","family":"IPv6","mac":"00:00:00:00:00:00","internal":true,"cidr":"::1/128","scopeid":0},{"address":"127.0.0.1","netmask":"255.0.0.0","family":"IPv4","mac":"00:00:00:00:00:00","internal":true,"cidr":"127.0.0.1/8"}]}
+
+Servidor iniciado el 19/4/2024, 06:53:26
+Servidor cerrado el 19/4/2024, 06:55:32
+El servidor estuvo abierto: 2.11 minutos
